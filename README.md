@@ -1,4 +1,4 @@
-# Stress testing my new System76 Lemur Pro ultralightweight laptop with 40GB RAM runninng Pop OS :)
+# Stress testing my new System76 Lemur Pro ultralightweight laptop with 40GB RAM running Pop OS :)
 1. Install docker `sudo apt install docker.io`
 2. Install kubectl https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-linux
 3. Install minikube https://minikube.sigs.k8s.io/docs/start/
