@@ -7,3 +7,6 @@
 6. `kubectl get pods`
 7.  `free`
 
+Notes/Questions
+# 10GB RAM assigned to minikube container
+# Only 3GB change to free/available RAM?
